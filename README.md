@@ -1,2 +1,0 @@
-# LAImageGallery
-LA Picture Gallery
